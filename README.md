@@ -29,6 +29,7 @@
 
 # Установка
 Перед запуском добавить конфигурацию Tomcat v.9.0.58 в Intelij IDEA Community Edition v2021. и пройти по ссылке http://localhost:8080/Order_Creation_Service/
+Для того, чтобы данные сохранялись в базу данных, необходимо воспользоваться MySQL v.8.0.28 и конвертировать таблицу, которая находится в OrderCreationService/src/main/resources/createTableOrders.sql
 
 # Использование
 Начальная страница
