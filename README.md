@@ -33,12 +33,14 @@
 # Использование
 Начальная страница
 
-<a href="https://wmpics.pics/pm-CJB8.html#image696023"><img src="https://wmpics.pics/dm-5XZVG.png"/></a>
+![alt text](https://wmpics.pics/di-5XZVG.png)
+
 
 Ввод данных
 
-<a href="https://wmpics.pics/pm-CJB8.html#image696022"><img src="https://wmpics.pics/dm-HUJT.png"/></a>
+![alt text](https://wmpics.pics/di-HUJT.png)
+
 
 Отображение данных
 
-<a href="https://wmpics.pics/pm-CJB8.html"><img src="https://wmpics.pics/dm-CJB8.png"/></a>
+![alt text](https://wmpics.pics/di-CJB8.png)
